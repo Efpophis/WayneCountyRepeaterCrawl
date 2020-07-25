@@ -23,20 +23,20 @@ The frequencies used for Friday, July 24, 2020 were:
 |------------|------------|-----------|----------|-----------------|------------|---------------|
 |1           | 443.075    | +5.0     | 123.0    | RenCen, Detroit | WW8GM      | Allstar 47185 |
 |2           | 145.330    | -0.6  | 100.0    | Detroit         | WR8DAR     |               |
-|3           | 146.900    | -0.6  | 100.0    | Pontiac, Oakland| W8OAK      | Net 1    |
+|3           | 146.900    | -0.6  | 100.0    | Pontiac, OAK| W8OAK      | Net 1    |
 |4           | 443.100    | +5.0    | 82.5     | Northville      | WR8DAR     | Allstar 45504, Net 2 |
 |5           | 446.000    | simplex   | None     | N/A             | N/A        |               |
 |6           | 442.100    | +5.0     | 107.2    | Detroit         | K8PLW      |               |
 |7           |  51.840    | -0.5  | 100.0    | Detroit         | K8PLW      | 6M FM!        |
-|8           | 147.140    | +0.6  | 100.0    | Troy, Oakland   | N8KD       | SMART system  |
+|8           | 147.140    | +0.6  | 100.0    | Troy, OAK   | N8KD       | SMART system  |
 |9           | 442.800    | +5 MHz    | 107.2    | Dearborn        | WR8DAR     |               |
 |10          | *RESERVED* |           |          |                 |            |               |
-|11          | 146.920    | -0.6  | 100.0    | Ypsilanti, Washtenaw | KT8TD |               |
+|11          | 146.920    | -0.6  | 100.0    | Ypsilanti, WASHT | KT8TD |               |
 |12          | *RESERVED* |           |          |                 |            |               |
 |13          | 145.350    | -0.6   | 100.0    | Livonia         | K8UNS      |               |
 |14          | 146.860    | -0.6   | 100.0    | Garden City     | KK8GC      |               |
-|15          | 146.760    | -0.6   | 100.0    | Southfield, Oakland | KE8HR  |               |
-|16          | 145.150    | -0.6   | 100.0    | Ann Arbor, Washtenaw | N8DUY | Washtenaw Skywarn |
+|15          | 146.760    | -0.6   | 100.0    | Southfield, OAK | KE8HR  |               |
+|16          | 145.150    | -0.6   | 100.0    | Ann Arbor, WASHT | N8DUY | Washtenaw Skywarn |
 |17          | 442.175    | +5.0    | 123.0    | Detroit         | KC8LTS     |                |
 
 &nbsp;
