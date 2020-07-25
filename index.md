@@ -1,5 +1,3 @@
-## 
-
 ## Wayne County, Michigan Repeater Crawl
 
 The Wayne County Repeater Crawl takes place in Wayne County, Michigan and neighboring areas. We are a very informal group of amateur radio operators who like to meet up and talk. 
