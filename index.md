@@ -25,21 +25,21 @@ The frequencies used for Friday, July 24, 2020 were:
 |Stop Number | Frequency  | Offset    | PL Tone  | Location        |  Call Sign | Other Info    |
 |------------|------------|-----------|----------|-----------------|------------|---------------|
 |1           | 443.075    | +5 MHz    | 123.0    | RenCen, Detroit | WW8GM      | Allstar 47185 |
-|2           | 145.330    | -600 kHz  | 100.0    | Detroit         | WR8DAR     |               |
-|3           | 146.900    | -600 kHz  | 100.0    | Pontiac, Oakland| W8OAK      | Net Info 1    |
+|2           | 145.330    | -.6 MHz  | 100.0    | Detroit         | WR8DAR     |               |
+|3           | 146.900    | -.6 kHz  | 100.0    | Pontiac, Oakland| W8OAK      | Net Info 1    |
 |4           | 443.100    | +5 MHz    | 82.5     | Northville      | WR8DAR     | Allstar 45504, Net Info 2 |
 |5           | 446.000    | simplex   | None     | N/A             | N/A        |               |
 |6           | 442.100    | +5 MHz    | 107.2    | Detroit         | K8PLW      |               |
-|7           |  51.840    | -500 kHz  | 100.0    | Detroit         | K8PLW      | 6M FM!        |
-|8           | 147.140    | +500 kHz  | 100.0    | Troy, Oakland   | N8KD       | SMART system  |
+|7           |  51.840    | -.5 MHz  | 100.0    | Detroit         | K8PLW      | 6M FM!        |
+|8           | 147.140    | +.6 MHz  | 100.0    | Troy, Oakland   | N8KD       | SMART system  |
 |9           | 442.800    | +5 MHz    | 107.2    | Dearborn        | WR8DAR     |               |
 |10          | -reserved- |           |          |                 |            |               |
-|11          | 146.920    | -600 kHz  | 100.0    | Ypsilanti, Washtenaw | KT8TD |               |
+|11          | 146.920    | -.6 MHz  | 100.0    | Ypsilanti, Washtenaw | KT8TD |               |
 |12          | -reserved- |           |          |                 |            |               |
-|13          | 145.350    | -600 kHz  | 100.0    | Livonia         | K8UNS      |               |
-|14          | 146.860    | -600 kHz  | 100.0    | Garden City     | KK8GC      |               |
-|15          | 146.760    | -600 kHz  | 100.0    | Southfield, Oakland | KE8HR  |               |
-|16          | 145.150    | -600 kHz  | 100.0    | Ann Arbor, Washtenaw | N8DUY | Washtenaw Skywarn |
+|13          | 145.350    | -.6 MHz  | 100.0    | Livonia         | K8UNS      |               |
+|14          | 146.860    | -.6 MHz  | 100.0    | Garden City     | KK8GC      |               |
+|15          | 146.760    | -.6 MHz  | 100.0    | Southfield, Oakland | KE8HR  |               |
+|16          | 145.150    | -.6 MHz  | 100.0    | Ann Arbor, Washtenaw | N8DUY | Washtenaw Skywarn |
 |17          | 442.175    | +5 MHz    | 123.0    | Detroit         | KC8LTS     |                |
 
 
