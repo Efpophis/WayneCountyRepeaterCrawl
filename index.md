@@ -23,8 +23,8 @@ The frequencies used for Friday, July 24, 2020 were:
 |------------|------------|-----------|----------|-----------------|------------|---------------|
 |1           | 443.075    | +5.0     | 123.0    | RenCen, Detroit | WW8GM      | Allstar 47185 |
 |2           | 145.330    | -0.6  | 100.0    | Detroit         | WR8DAR     |               |
-|3           | 146.900    | -0.6  | 100.0    | Pontiac, Oakland| W8OAK      | Net Info 1    |
-|4           | 443.100    | +5.0    | 82.5     | Northville      | WR8DAR     | Allstar 45504, Net Info 2 |
+|3           | 146.900    | -0.6  | 100.0    | Pontiac, Oakland| W8OAK      | Net 1    |
+|4           | 443.100    | +5.0    | 82.5     | Northville      | WR8DAR     | Allstar 45504, Net 2 |
 |5           | 446.000    | simplex   | None     | N/A             | N/A        |               |
 |6           | 442.100    | +5.0     | 107.2    | Detroit         | K8PLW      |               |
 |7           |  51.840    | -0.5  | 100.0    | Detroit         | K8PLW      | 6M FM!        |
@@ -41,8 +41,8 @@ The frequencies used for Friday, July 24, 2020 were:
 
 &nbsp;
 
-Net Info 1: Thursday nights 8:00 PM EDT on the 146.900 repeater   
-Net Info 2: 1st and 3rd Tuesdays at 7:45 PM EDT on the 443.100 repeater
+Net 1: Thursday nights 8:00 PM EDT on the 146.900 repeater   
+Net 2: 1st and 3rd Tuesdays at 7:45 PM EDT on the 443.100 repeater
 
 ### Miscellania
 
