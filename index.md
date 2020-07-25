@@ -18,25 +18,25 @@ The list of repeaters (and simplex frequencies) tends to change every week. This
 The frequencies used for Friday, July 24, 2020 were:
 
 
-|Stop Number | Frequency  | Offset    | PL Tone  | Location        |  Call Sign | Other Info    |
+|Stop Number | Frequency  | Offset (MHz)   | PL Tone  | Location        |  Call Sign | Other Info    |
 |------------|------------|-----------|----------|-----------------|------------|---------------|
-|1           | 443.075    | +5 MHz    | 123.0    | RenCen, Detroit | WW8GM      | Allstar 47185 |
-|2           | 145.330    | -.6 MHz  | 100.0    | Detroit         | WR8DAR     |               |
-|3           | 146.900    | -.6 kHz  | 100.0    | Pontiac, Oakland| W8OAK      | Net Info 1    |
-|4           | 443.100    | +5 MHz    | 82.5     | Northville      | WR8DAR     | Allstar 45504, Net Info 2 |
+|1           | 443.075    | +5.0     | 123.0    | RenCen, Detroit | WW8GM      | Allstar 47185 |
+|2           | 145.330    | -0.6  | 100.0    | Detroit         | WR8DAR     |               |
+|3           | 146.900    | -0.6  | 100.0    | Pontiac, Oakland| W8OAK      | Net Info 1    |
+|4           | 443.100    | +5.0    | 82.5     | Northville      | WR8DAR     | Allstar 45504, Net Info 2 |
 |5           | 446.000    | simplex   | None     | N/A             | N/A        |               |
-|6           | 442.100    | +5 MHz    | 107.2    | Detroit         | K8PLW      |               |
-|7           |  51.840    | -.5 MHz  | 100.0    | Detroit         | K8PLW      | 6M FM!        |
-|8           | 147.140    | +.6 MHz  | 100.0    | Troy, Oakland   | N8KD       | SMART system  |
+|6           | 442.100    | +5.0     | 107.2    | Detroit         | K8PLW      |               |
+|7           |  51.840    | -0.5  | 100.0    | Detroit         | K8PLW      | 6M FM!        |
+|8           | 147.140    | +0.6  | 100.0    | Troy, Oakland   | N8KD       | SMART system  |
 |9           | 442.800    | +5 MHz    | 107.2    | Dearborn        | WR8DAR     |               |
 |10          | -reserved- |           |          |                 |            |               |
-|11          | 146.920    | -.6 MHz  | 100.0    | Ypsilanti, Washtenaw | KT8TD |               |
+|11          | 146.920    | -0.6  | 100.0    | Ypsilanti, Washtenaw | KT8TD |               |
 |12          | -reserved- |           |          |                 |            |               |
-|13          | 145.350    | -.6 MHz  | 100.0    | Livonia         | K8UNS      |               |
-|14          | 146.860    | -.6 MHz  | 100.0    | Garden City     | KK8GC      |               |
-|15          | 146.760    | -.6 MHz  | 100.0    | Southfield, Oakland | KE8HR  |               |
-|16          | 145.150    | -.6 MHz  | 100.0    | Ann Arbor, Washtenaw | N8DUY | Washtenaw Skywarn |
-|17          | 442.175    | +5 MHz    | 123.0    | Detroit         | KC8LTS     |                |
+|13          | 145.350    | -0.6   | 100.0    | Livonia         | K8UNS      |               |
+|14          | 146.860    | -0.6   | 100.0    | Garden City     | KK8GC      |               |
+|15          | 146.760    | -0.6   | 100.0    | Southfield, Oakland | KE8HR  |               |
+|16          | 145.150    | -0.6   | 100.0    | Ann Arbor, Washtenaw | N8DUY | Washtenaw Skywarn |
+|17          | 442.175    | +5.0    | 123.0    | Detroit         | KC8LTS     |                |
 
 
 Net Info 1: Thursday nights 8PM EDT on 146.900 repeater
@@ -48,8 +48,6 @@ Net Info 2: 1st and 3rd Tuesdays at 7:45 PM EDT on 443.100 repeater
 
 See NetLogger to see who's on and where we are, look for Wayne County Repeater Crawl
 
-Our Current Location & Check-in Record [https://docs.google.com/spreadsheets/d/1RH9K6oBGzyr96AX0zg7Cnw1rzbWCaTGt3CoWxn_vyOw/edit?usp=sharing]
+Our Current Location & Check-in Record [https://docs.google.com/spreadsheets/d/1RH9K6oBGzyr96AX0zg7Cnw1rzbWCaTGt3CoWxn_vyOw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1RH9K6oBGzyr96AX0zg7Cnw1rzbWCaTGt3CoWxn_vyOw/edit?usp=sharing)
 
-Web page hacked together at the last possible minute by Bill, WK2X <<efpophis@efpophis.net>>
-
-### Canary 2
+Web page hacked together at the last possible minute by Bill, WK2X <[efpophis@efpophis.net](mailto:efpophis@efpophis.net)>
