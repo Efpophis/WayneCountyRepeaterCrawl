@@ -46,11 +46,10 @@ Net Info 1: Thursday nights 8PM EDT on 146.900 repeater
 Net Info 2: 1st and 3rd Tuesdays at 7:45 PM EDT on 443.100 repeater
 
 
-## Miscellania
+### Miscellania
 
 See NetLogger to see who's on and where we are, look for Wayne County Repeater Crawl
 
-Our Current Location & Check-in Record
-https://docs.google.com/spreadsheets/d/1RH9K6oBGzyr96AX0zg7Cnw1rzbWCaTGt3CoWxn_vyOw/edit?usp=sharing
+Our Current Location & Check-in Record [https://docs.google.com/spreadsheets/d/1RH9K6oBGzyr96AX0zg7Cnw1rzbWCaTGt3CoWxn_vyOw/edit?usp=sharing]
 
 Web page hacked together at the last possible minute by Bill, WK2X <<efpophis@efpophis.net>>
