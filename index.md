@@ -30,9 +30,9 @@ The frequencies used for Friday, July 24, 2020 were:
 |7           |  51.840    | -0.5  | 100.0    | Detroit         | K8PLW      | 6M FM!        |
 |8           | 147.140    | +0.6  | 100.0    | Troy, Oakland   | N8KD       | SMART system  |
 |9           | 442.800    | +5 MHz    | 107.2    | Dearborn        | WR8DAR     |               |
-|10          | -reserved- |           |          |                 |            |               |
+|10          | *RESERVED* |           |          |                 |            |               |
 |11          | 146.920    | -0.6  | 100.0    | Ypsilanti, Washtenaw | KT8TD |               |
-|12          | -reserved- |           |          |                 |            |               |
+|12          | *RESERVED* |           |          |                 |            |               |
 |13          | 145.350    | -0.6   | 100.0    | Livonia         | K8UNS      |               |
 |14          | 146.860    | -0.6   | 100.0    | Garden City     | KK8GC      |               |
 |15          | 146.760    | -0.6   | 100.0    | Southfield, Oakland | KE8HR  |               |
