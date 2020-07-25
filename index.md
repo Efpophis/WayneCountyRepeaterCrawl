@@ -6,7 +6,7 @@ out repeaters we may not have used before, and get a better idea of the capabili
 
 The Crawl takes place on Friday evenings beginning at 7:00 PM EDT, sometimes a few minutes before.
 
-KD8ZSK, Keith, usually fills the role of Net Control Station (NCS). Format is pretty informal, but all participants are asked to follow the NCS's instructions to ensure
+Keith, KD8ZSK usually fills the role of Net Control Station (NCS). Format is pretty informal, but all participants are asked to follow the NCS's instructions to ensure
 smooth operations and a pleasant experience for all.
 
 ### Frequencies
@@ -39,8 +39,8 @@ The frequencies used for Friday, July 24, 2020 were:
 |17          | 442.175    | +5.0    | 123.0    | Detroit         | KC8LTS     |                |
 
 
-Net Info 1: Thursday nights 8PM EDT on 146.900 repeater
 
+Net Info 1: Thursday nights 8PM EDT on 146.900 repeater   
 Net Info 2: 1st and 3rd Tuesdays at 7:45 PM EDT on 443.100 repeater
 
 
