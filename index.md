@@ -38,8 +38,8 @@ The frequencies used for Friday, July 24, 2020 were:
 |16          | 145.150    | -0.6   | 100.0    | Ann Arbor, Washtenaw | N8DUY | Washtenaw Skywarn |
 |17          | 442.175    | +5.0    | 123.0    | Detroit         | KC8LTS     |                |
 
-` `  
-` `  
+` ` 
+` ` 
 Net Info 1: Thursday nights 8PM EDT on 146.900 repeater   
 Net Info 2: 1st and 3rd Tuesdays at 7:45 PM EDT on 443.100 repeater
 
@@ -50,3 +50,5 @@ See NetLogger to see who's on and where we are, look for Wayne County Repeater C
 Our Current Location & Check-in Record [https://docs.google.com/spreadsheets/d/1RH9K6oBGzyr96AX0zg7Cnw1rzbWCaTGt3CoWxn_vyOw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1RH9K6oBGzyr96AX0zg7Cnw1rzbWCaTGt3CoWxn_vyOw/edit?usp=sharing)
 
 Web page hacked together at the last possible minute by Bill, WK2X <[efpophis@efpophis.net](mailto:efpophis@efpophis.net)>
+
+### Canary 1
