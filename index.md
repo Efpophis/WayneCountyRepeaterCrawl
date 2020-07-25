@@ -52,4 +52,4 @@ Our Current Location & Check-in Record [https://docs.google.com/spreadsheets/d/1
 
 Web page hacked together at the last possible minute by Bill, WK2X <<efpophis@efpophis.net>>
 
-### Canary 1
+### Canary 2
