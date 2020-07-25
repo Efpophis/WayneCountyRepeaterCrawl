@@ -1,13 +1,10 @@
-The Wayne County Repeater Crawl takes place in Wayne County, Michigan and neighboring areas. We are a very informal group of amateur radio operators who like to meet up and talk. 
-The purpose of our gathering is to communicate using many of the repeaters available to us in Wayne County, MI and surrounding areas. By doing this, we can meet new people, try 
-out repeaters we may not have used before, and get a better idea of the capabilities of our stations. All licensed amateur radio operators are welcome to participate.
+The Wayne County Repeater Crawl takes place in Wayne County, Michigan and neighboring areas. We are a very informal group of amateur radio operators who like to meet up and talk on the air. The purpose of our gathering is to communicate using many of the repeaters available to us in Wayne County, MI and surrounding areas. By doing this, we can meet new people, try out repeaters we may not have used before, and get a better idea of the capabilities of our stations. All licensed amateur radio operators are welcome to participate.
 
 ### Schedule and Format
 
 The Crawl takes place on Friday evenings beginning at 7:00 PM EDT, sometimes a few minutes before.
 
-Keith, KD8ZSK usually fills the role of Net Control Station (NCS). Format is pretty informal, but all participants are asked to follow the NCS's instructions to ensure
-smooth operations and a pleasant experience for all.
+Keith, KD8ZSK usually fills the role of Net Control Station (NCS). Format is pretty informal, but all participants are asked to follow the NCS's instructions to ensure smooth operations and a pleasant experience for all.
 
 ### Frequencies
 
